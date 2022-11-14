@@ -15,7 +15,7 @@
 
 
 
-<h3 align="center">Capstone 1 - Acamdemic Records Pelajaran Matematika</h3>
+<h3 align="center">Capstone 1 - Academic Records Pelajaran Matematika</h3>
 
   <p align="center">
     Sebuah program yang ditujukan untuk mengakses data murid dan memasukkan nilai ujian.
@@ -63,7 +63,7 @@ Dalam program ini terdapat 5 menu utama yaitu:
 1. Menampilkan data siswa
 2. Menambah data siswa baru
 3. Menghapus data siswa 
-4. Mengupdate nilai ujian yang ada
+4. Mengupdate nilai ujian
 5. Keluar dari program
 
 
@@ -79,7 +79,7 @@ Dalam program ini terdapat 5 menu utama yaitu:
 
 Delvin Jong - [@del.delvin](https://instagram.com/del.delvin) - delvinjong@gmail.com
 
-Project Link: [Capstone 1](https://github.com/Lakasumtu/mathematics_test_record)
+Project Link: [Capstone 1](https://github.com/delvinjong/mathematic_test_record)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,8 +98,7 @@ Project Link: [Capstone 1](https://github.com/Lakasumtu/mathematics_test_record)
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/yoshiandos
-[product-screenshot]: C:\Users\yoshi\OneDrive\Desktop\product.png
+[linkedin-url]: https://www.linkedin.com/in/delvin-jong-1a2247212/
 [Next.js]: https://img.shields.io/pypi/pyversions/Django?color=black&label=Python&logo=Python&logoColor=Green&style=flat-square
 [Next-url]: https://www.python.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
